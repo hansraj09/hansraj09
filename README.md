@@ -8,7 +8,7 @@
 - 💻 Software Engineer
 - 🎓 Studying Computer Science at The University of Waterloo (class 2025)
 - 🌱 I’m currently learning about AI and Machine Learning
-- 🥅 2023 Goals: Finish the Machine Learning Course and build an exciting project from it
+- 🥅 2024 Goals: Finish the Machine Learning Course and build an exciting project from it
 
 
 ### Stats:
