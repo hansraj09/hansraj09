@@ -6,10 +6,9 @@
 
 ### About Me:
 - 💻 Software Engineer
-- 🎓 Studying Computer Science at The University of Waterloo (class 2025)
-- 🌱 I’m currently learning about AI and Machine Learning
-- 🥅 2024 Goals: Finish the Machine Learning Course and build an exciting project from it
-
+- 🎓 Graduated from the Computer Science program at The University of Waterloo (class 2025)
+- 🌱 I’m currently learning about AI and machine learning
+- 🥅 2025 Goals: Learn more about AI agents and build workflows
 
 ### Stats:
 
